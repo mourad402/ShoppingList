@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/app_bar_cards"
+        android:icon="@drawable/ic_credit_card_black_24dp"
+        android:title="@string/action_cards"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/app_bar_view_type"
+        android:icon="@drawable/ic_view_module_black_24dp"
+        android:title="@string/action_view_type"
+        app:showAsAction="ifRoom"/>
+</menu>
